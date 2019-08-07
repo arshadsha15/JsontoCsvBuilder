@@ -1,0 +1,16 @@
+C:\Users\arshad\source\repos\JsonToCSVBuilder\JsonToCSVBuilder\bin\Release\JsonToCSVBuilder.exe.config
+C:\Users\arshad\source\repos\JsonToCSVBuilder\JsonToCSVBuilder\bin\Release\JsonToCSVBuilder.exe
+C:\Users\arshad\source\repos\JsonToCSVBuilder\JsonToCSVBuilder\bin\Release\JsonToCSVBuilder.pdb
+C:\Users\arshad\source\repos\JsonToCSVBuilder\JsonToCSVBuilder\bin\Release\CsvHelper.dll
+C:\Users\arshad\source\repos\JsonToCSVBuilder\JsonToCSVBuilder\bin\Release\Newtonsoft.Json.dll
+C:\Users\arshad\source\repos\JsonToCSVBuilder\JsonToCSVBuilder\bin\Release\CsvHelper.xml
+C:\Users\arshad\source\repos\JsonToCSVBuilder\JsonToCSVBuilder\bin\Release\Newtonsoft.Json.pdb
+C:\Users\arshad\source\repos\JsonToCSVBuilder\JsonToCSVBuilder\bin\Release\Newtonsoft.Json.xml
+C:\Users\arshad\source\repos\JsonToCSVBuilder\JsonToCSVBuilder\obj\Release\JsonToCSVBuilder.csprojAssemblyReference.cache
+C:\Users\arshad\source\repos\JsonToCSVBuilder\JsonToCSVBuilder\obj\Release\JsonToCSVBuilder.CSVBuilder.resources
+C:\Users\arshad\source\repos\JsonToCSVBuilder\JsonToCSVBuilder\obj\Release\JsonToCSVBuilder.Properties.Resources.resources
+C:\Users\arshad\source\repos\JsonToCSVBuilder\JsonToCSVBuilder\obj\Release\JsonToCSVBuilder.csproj.GenerateResource.cache
+C:\Users\arshad\source\repos\JsonToCSVBuilder\JsonToCSVBuilder\obj\Release\JsonToCSVBuilder.csproj.CoreCompileInputs.cache
+C:\Users\arshad\source\repos\JsonToCSVBuilder\JsonToCSVBuilder\obj\Release\JsonToCSVBuilder.csproj.CopyComplete
+C:\Users\arshad\source\repos\JsonToCSVBuilder\JsonToCSVBuilder\obj\Release\JsonToCSVBuilder.exe
+C:\Users\arshad\source\repos\JsonToCSVBuilder\JsonToCSVBuilder\obj\Release\JsonToCSVBuilder.pdb
